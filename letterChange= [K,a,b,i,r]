@@ -1,0 +1,2 @@
+letterChange= [K,a,b,i,r]
+letterChange.each {|l| puts l.ord}
