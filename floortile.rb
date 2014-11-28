@@ -15,4 +15,4 @@ width = gets.chomp.to_f
 puts "Tile size?"
 tiles = gets.chomp.to_f
 
-tile(length, width, tiles)
+tile(length, width, tiles) 
