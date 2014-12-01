@@ -17,4 +17,3 @@ def pastaBake(pb, m, c)
 end 
 
 #Results 
-puts "You need".pbNeeded.to_i"g" 
