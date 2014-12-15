@@ -17,7 +17,7 @@ puts "What recipe would you like to prepare?\n
 1. Pasta Bake
 2. Con Carne"
 choice_recipe = gets.chomp 
-puts "how many are going to be eating? "
+puts "how many are going to be eating?"
 choice_seating = gets.chomp.to_i 	
 
 puts choice_recipe
