@@ -23,4 +23,4 @@ choice_seating = gets.chomp.to_i
 puts choice_recipe
 puts choice_seating
 
-food(choice_recipe, choice_seating)
+food(choice_recipe, choice_seating) .0...............0
